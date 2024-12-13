@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bikram Pun
 ==================================================================================================================================
 
-Software Developer
+Software Engineer
 ------------------
 
-I'm Software Engineer currently studying in Nepal College of Information Technology
+I'm Software Engineer who graduated from Nepal College of Information Technology
 
 * 🌍  I'm based in Kathmandu, Nepal
 * 🖥️  See my portfolio at [click](http://bikrampun.com.np)
